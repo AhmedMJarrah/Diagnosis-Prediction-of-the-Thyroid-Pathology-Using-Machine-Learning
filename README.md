@@ -1,0 +1,1 @@
+# Diagnosis-Prediction-of-the-Thyroid-Pathology-Using-Machine-Learning
